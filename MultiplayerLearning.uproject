@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27Chaos",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MultiplayerLearning",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
